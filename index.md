@@ -1,5 +1,5 @@
 ## Portfolio
-
+Hello, I am Aryan Sharma and I am a highly motivated Computer Science junior looking for learning opportunities for improving technical skills while adding considerable value to projects and businesses
 ---
 
 ### Category Name 1 
